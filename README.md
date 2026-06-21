@@ -6,7 +6,7 @@
 
 Mobile experience for your academic essentials.
 
-![Banner](assets/readme/banner.jpg)
+![Banner](assets/readme/featue_graphic.png)
 
 </div>
 
@@ -60,7 +60,7 @@ View attendance updates from all subjects in a single card.
 
 No need to open individual subjects one by one.
 
-![Today's Attendance](assets/readme/todays_attendance.jpg)
+![Today's Attendance](assets/readme/1.png)
 
 ---
 
@@ -70,7 +70,7 @@ Instantly understand how attending or missing the next lecture affects your atte
 
 Plan your attendance with confidence.
 
-![Lecture Impact](assets/readme/lecture_impact.jpg)
+![Lecture Impact](assets/readme/3.png)
 
 ---
 
@@ -81,7 +81,7 @@ Know:
 - How many lectures you need to reach 75%
 - How many lectures you can safely miss
 
-![Attendance Planning](assets/readme/attendance_planning.jpg)
+![Attendance Planning](assets/readme/2.png)
 
 ---
 
@@ -91,7 +91,7 @@ Track attendance records through an interactive calendar view.
 
 Quickly navigate between dates and review lecture/tutorial attendance history.
 
-![Attendance History](assets/readme/attendance_history.jpg)
+![Attendance History](assets/readme/4.png)
 
 ---
 
@@ -106,7 +106,7 @@ Features include:
 - Offline availability
 - Assignment downloads
 
-![Assignments](assets/readme/assignments.jpg)
+![Assignments](assets/readme/5.png)
 
 ---
 
@@ -116,7 +116,7 @@ Previously synchronized data remains available offline.
 
 Students can continue viewing important information even when the portal is unavailable.
 
-![Offline Support](assets/readme/offline.jpg)
+![Offline Support](assets/readme/8.png)
 
 ---
 
@@ -130,7 +130,7 @@ View:
 
 All in a clean and accessible format.
 
-![Mentorship](assets/readme/mentorship.jpg)
+![Mentorship](assets/readme/7.png)
 
 ---
 
@@ -143,7 +143,7 @@ Quickly access:
 - Due dates
 - Payment references
 
-![Fee Details](assets/readme/fee_details.jpg)
+![Fee Details](assets/readme/6.png)
 
 ---
 

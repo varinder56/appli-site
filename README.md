@@ -2,8 +2,6 @@
 
 # AGC Assist
 
-### A Better AGC Experience
-
 Mobile experience for your academic essentials.
 
 ![Banner](assets/readme/featue_graphic.png)
